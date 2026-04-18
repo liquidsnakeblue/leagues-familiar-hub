@@ -1,0 +1,13 @@
+[
+  {
+    "internalName": "leagues-familiar",
+    "hash": "3abe27284fdfb4df137b5266b16273e01f198209dfa05c9d55a1fe6d9dba638e",
+    "size": 17348285,
+    "plugins": [
+      "com.leaguesai.LeaguesAiPlugin"
+    ],
+    "displayName": "Leagues Familiar",
+    "description": "LLM-backed coaching for Leagues VI. Supports OpenAI and any OpenAI-compatible endpoint (LM Studio, vLLM, OpenRouter).",
+    "provider": "liquidsnakeblue"
+  }
+]
