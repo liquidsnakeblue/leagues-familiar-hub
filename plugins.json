@@ -1,8 +1,8 @@
 [
   {
     "internalName": "leagues-familiar",
-    "hash": "f656f3d22adf5b020c4997fd20f96ec549200e9b1e6eef647239b85ac22c5e02",
-    "size": 17621125,
+    "hash": "ac5e1a3c0db2fcd60d147e67cb22dcc7be93b3ab3bb87e74dce88652a3a41679",
+    "size": 17612493,
     "plugins": [
       "com.leaguesai.LeaguesAiPlugin"
     ],
